@@ -1,0 +1,25 @@
+.topbar{
+
+    background:#B20C18;
+    height: 8rem;
+    color: #F9E700;
+    font-family: 'RobotoCondensed-regular';
+    font-weight: 800 ;
+    font-size: 30px;
+    display: flex;
+    padding: 15px;
+    position: absolute;
+    top: 0;
+    left:0;
+    right: 0;
+
+}
+
+
+.tittle{
+
+    margin-left: 50px;
+    align-items: center;
+    align-self: center;
+
+}

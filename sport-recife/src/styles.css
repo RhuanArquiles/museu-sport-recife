@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+/* Fontes */
+@font-face {
+    font-family: 'RobotoCondensed-regular';
+    src: url('assets/fonts/RobotoCondensed-regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'RobotoCondensed-Italic';
+    src: url('assets/fonts/RobotoCondensed-Italic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
