@@ -8,7 +8,8 @@ import { TopbarComponent } from './topbar/topbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { TrophyComponent } from './trophy/trophy.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MatIconModule} from '@angular/material/icon';
+import { MatIconModule } from '@angular/material/icon';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import {MatIconModule} from '@angular/material/icon';
     SidenavComponent,
     TopbarComponent,
     FooterComponent,
-    TrophyComponent
+    TrophyComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
