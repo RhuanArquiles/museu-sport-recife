@@ -1,0 +1,32 @@
+.footer{
+
+    background: #B20C18;
+    font-family: 'RobotoCondensed-regular';
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 4rem;
+    font-size: 20px;
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    
+}
+
+.link_git{
+
+    color: #ffffff;
+    padding-left:4px;
+
+}
+
+.imagem{
+    position: absolute;
+    display: flex;
+    align-self: center;
+    align-items: flex-end;
+    right: 0;
+    padding-right: 20px;
+}

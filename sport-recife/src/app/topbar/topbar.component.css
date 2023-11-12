@@ -8,10 +8,11 @@
     font-size: 30px;
     display: flex;
     padding: 15px;
-    position: absolute;
+    position: fixed;
     top: 0;
     left:0;
     right: 0;
+    z-index: 100;
 
 }
 
@@ -22,4 +23,12 @@
     align-items: center;
     align-self: center;
 
+}
+
+.icone-home{
+    display: flex;
+    width: 200px !important;
+    align-items: center;
+    align-self: center;
+    padding-left: 40px;
 }
