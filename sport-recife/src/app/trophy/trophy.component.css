@@ -1,5 +1,36 @@
-.body-container{
+.conteudo-corpo{
 
     padding-top: 145px;
+
+}
+
+.titulo{
+
+    align-items: center; 
+    font-size: 80px; 
+    display: flex;
+    justify-content: center; 
+
+}
+
+.subtitulo{
+    align-items: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.painel-titulos{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.tamanho{
+
+    min-width: 70%;
+    max-width: 90%;
 
 }
