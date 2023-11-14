@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { trophyData } from './trophy-data';
 
 @Component({
   selector: 'app-trophy',
@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./trophy.component.css']
 })
 export class TrophyComponent {
-
+  trophyList = trophyData ;
 }
