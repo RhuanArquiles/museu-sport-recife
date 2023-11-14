@@ -28,9 +28,9 @@
 
 }
 
-.tamanho{
+.expansivo{
 
     min-width: 70%;
     max-width: 90%;
-
+    display: flex;
 }
