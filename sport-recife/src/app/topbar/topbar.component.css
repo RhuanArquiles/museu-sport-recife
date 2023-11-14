@@ -27,8 +27,14 @@
 
 .icone-home{
     display: flex;
-    width: 200px !important;
+    width: 30px !important;
     align-items: center;
     align-self: center;
     padding-left: 40px;
 }
+
+.inicio{
+    display: flex !important;
+    align-items: center !important;
+}
+
