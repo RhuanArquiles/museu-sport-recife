@@ -1,24 +1,28 @@
 .conteudo-corpo{
 
     padding-top: 145px;
-
+    background-image: url(https://i0.wp.com/sportrecife.com.br/wp-content/uploads/2023/02/sport-ilha-do-retiro-cadeiras.png?fit=1170%2C650&ssl=1);
+    background-size: 100%;
 }
 
 .titulo{
-
+    font-family: 'RobotoCondensed-bold';
     align-items: center; 
     font-size: 80px; 
     display: flex;
     justify-content: center; 
+    color: #000;
+    text-shadow:-1px -1px 0px #FFF,-1px 1px 0px #FFF,1px -1px 0px #FFF,1px 0px 0px #FFF;
 
 }
 
 .subtitulo{
+    font-family: 'RobotoCondensed-regular';
     align-items: center;
     font-size: 30px;
     display: flex;
     justify-content: center;
-
+    text-shadow:-1px -1px 0px #FFF,-1px 1px 0px #FFF,1px -1px 0px #FFF,1px 0px 0px #FFF;
 }
 
 .painel-titulos{
@@ -32,5 +36,14 @@
 
     min-width: 70%;
     max-width: 90%;
-    display: flex;
+    margin-bottom:15px;
+}
+
+.imagem{
+
+    padding-top: 145px;
+    background-image: url(https://i0.wp.com/sportrecife.com.br/wp-content/uploads/2023/02/sport-ilha-do-retiro-cadeiras.png?fit=1170%2C650&ssl=1);
+    background-size: 100%;
+    opacity: 0.25;
+
 }

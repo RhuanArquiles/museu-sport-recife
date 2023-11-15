@@ -1,0 +1,39 @@
+.titulo{
+    font-size: 30px;
+    font-family: 'RobotoCondensed-regular';
+    
+
+}
+
+.card-player{
+
+    background-color: black;
+    left: 0px;
+    width: calc((20% - 0.8px) * 1 + 0px);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+    padding-top: calc((26.6667% - 0.8px) * 1 + 0px);
+
+
+}
+.card-individual{
+
+
+    height: 425px !important;
+    width: 292px !important;
+    display: block;
+
+}
+
+.titulo-pos{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+/* width: 304px;
+height: 420px;
+padding-left: 105px; */
