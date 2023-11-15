@@ -1,5 +1,5 @@
 .titulo{
-
+    font-size: 30px;
     font-family: 'RobotoCondensed-regular';
     
 
@@ -10,7 +10,8 @@
     background-color: black;
     left: 0px;
     width: calc((20% - 0.8px) * 1 + 0px);
-    margin: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-top: 0px;
     padding-top: calc((26.6667% - 0.8px) * 1 + 0px);
 

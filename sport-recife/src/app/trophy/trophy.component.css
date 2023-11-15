@@ -6,7 +6,7 @@
 }
 
 .titulo{
-
+    font-family: 'RobotoCondensed-bold';
     align-items: center; 
     font-size: 80px; 
     display: flex;
@@ -17,6 +17,7 @@
 }
 
 .subtitulo{
+    font-family: 'RobotoCondensed-regular';
     align-items: center;
     font-size: 30px;
     display: flex;
