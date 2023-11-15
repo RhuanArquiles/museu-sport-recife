@@ -14,6 +14,9 @@ import { HomeComponent } from './home/home.component';
 import {MatExpansionModule} from '@angular/material/expansion';
 import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
+import { PlayersComponent } from './players/players.component';
+import { MatGridListModule } from '@angular/material/grid-list';
+
 
 
 
@@ -24,7 +27,8 @@ import {MatCardModule} from '@angular/material/card';
     TopbarComponent,
     FooterComponent,
     TrophyComponent,
-    HomeComponent
+    HomeComponent,
+    PlayersComponent
   ],
   imports: [
     BrowserModule,
@@ -33,7 +37,8 @@ import {MatCardModule} from '@angular/material/card';
     MatIconModule,
     MatExpansionModule,
     MatButtonModule,
-    MatCardModule
+    MatCardModule,
+    MatGridListModule
 
 
   ],
